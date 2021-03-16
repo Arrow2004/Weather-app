@@ -36,6 +36,6 @@ Sending a request to the API I did as follows.
   }
 ```
 ## Conclusion
-This project version is 1.0 and I would like to add some daily weather information in future versions. And I want to work on design.
+This project version is 1.0 and I would like to add some daily weather information in future versions. And I want to work on design. <br/> 
 See [Project](http://t99323py.beget.tech/weatherapp/) <br/> 
 Thank you UDACITY!!!
