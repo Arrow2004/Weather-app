@@ -6,7 +6,7 @@
 * Getting Started
 * Conclusion
 ## Intro
-The starter project I am created HTML and CSS files. 
+The starter project I am created HTML and CSS files. <br/> 
 The project has the following structure
 ```javascript
 images
@@ -22,7 +22,7 @@ I used the openweathermap api for this project! It is very nice free api!!!
 ## Getting Started
 Then I used css for design!!!
 Eventually I sent a request to the api using JavaScript and received the data. Then based on this data, I sent the data to html with a JavaScript DOM!!!
-I finally fixed some flaws.
+I finally fixed some flaws. <br/> 
 Sending a request to the API I did as follows.
 ```javascript
     const getWeather = async (baseURL, city, key)=>{
@@ -37,5 +37,5 @@ Sending a request to the API I did as follows.
 ```
 ## Conclusion
 This project version is 1.0 and I would like to add some daily weather information in future versions. And I want to work on design.
-See <br/> [Project](http://t99323py.beget.tech/weatherapp/)
+See [Project](http://t99323py.beget.tech/weatherapp/) <br/> 
 Thank you UDACITY!!!
