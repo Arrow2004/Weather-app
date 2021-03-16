@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather app | 1.0 | openweathermap</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/js/all.min.js"></script>
+</head>
+<body>
+    <div class="container">
+        <div class="query">
+           <h1>Weather app</h1>
+            Enter city <br>
+            <input type="text" placeholder="Search city" name="city" id="stateName">
+            <button id="generate"><i class="fas fa-search"></i></button>
+        </div>
+        <div class="result">
+            <div>
+                <h1 id="cityName">Tashkent(UZ)</h1>
+                <h1 class="temperature">14<sup>0</sup>c</h1>
+                -------------------------------
+                <h2 id="wParam">Cloudy</h2>
+                <div>
+                    <h4 id="max-min">25/23</h4>
+                    <img src="" id="iconW" alt="">
+                </div>
+            </div>   
+        </div>
+        <div class="footer">
+            <h2>Developed by <a href="https://www.instagram.com/akbarcoder/">AkbarCoder</a></h2>
+            ------------------------------- <br>
+            <a href="https://www.instagram.com/akbarcoder/"><i class="fab fa-instagram"></i> </a>
+            <a href="https://t.me/akbarcoder"><i class="fab fa-telegram"></i> </a>
+            <a href="https://www.youtube.com/channel/UCcxn2g5Y4rRIdb4j0gOqRrg"><i class="fab fa-youtube"></i> </a>
+            /akbarcoder
+        </div>
+    </div>
+    <script src="./app.js"></script>
+</body>
+</html>
