@@ -10,8 +10,8 @@ The starter project I am created HTML and CSS files.
 The project has the following structure
 ```javascript
 images
-  - pogoda.jpg
-  - weather.jpeg
+ - pogoda.jpg
+ - weather.jpeg
 styles.css    
 index.html
 app.js
@@ -37,5 +37,5 @@ Sending a request to the API I did as follows.
 ```
 ## Conclusion
 This project version is 1.0 and I would like to add some daily weather information in future versions. And I want to work on design.
-See [Project](http://t99323py.beget.tech/weatherapp/)
+See <br/> [Project](http://t99323py.beget.tech/weatherapp/)
 Thank you UDACITY!!!
